@@ -1,0 +1,7 @@
+PV Power,sensor.givtcp_sa2224g392_pv_power
+Invertor Power,sensor.givtcp_sa2224g392_invertor_power
+Grid Power,sensor.givtcp_sa2224g392_grid_power
+Battery Power,sensor.givtcp_sa2224g392_soc
+Battery To House,sensor.givtcp_sa2224g392_battery_to_house
+Solar To House,sensor.givtcp_sa2224g392_solar_to_house
+Export Power,sensor.givtcp_sa2224g392_export_power
